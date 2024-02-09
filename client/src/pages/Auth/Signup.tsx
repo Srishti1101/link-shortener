@@ -17,7 +17,7 @@ const Signup = () => {
   return (
     <div className="auth">
       <div className="auth__container">
-        <img src={`${process.env.PUBLIC_URL}/assets/images/logo.png`} alt="" />
+        <img src={`${process.env.PUBLIC_URL}/assets/images/logo123.avif`} alt="" />
         <div className="auth__form">
           <TextInput
             label="Full name"
